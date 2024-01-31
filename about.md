@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Skylar Mogari
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a senior majoring in Computer Science and minoring in Astronomy. I'm originally from southern California. 
 
