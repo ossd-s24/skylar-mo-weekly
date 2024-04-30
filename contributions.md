@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 |  April 10   |  Contribution (https://github.com/joannakl/ossd/pull/113)  |  Course Website (Daily)   |   I fixed the Sunday due date for this week.   |
-|     |     |     |      |
+|  April 29   |  Contribution (https://en.wikipedia.org/wiki/Special:Contributions/Skylar.mo)   |  Wikipedia   |  I added some information about a program I was in to my high school's page.     |
